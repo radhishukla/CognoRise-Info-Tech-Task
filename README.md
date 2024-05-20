@@ -1,6 +1,6 @@
 # CognoRise-Info-Tech-Task
 
-Task 2:Infographics
+Task 2: Infographics
 
 https://www.figma.com/design/HFz0zNwqHmijlqb8B2zONo/Infographic-Template?t=1r9wZ8CGApCaDCws-1
 

@@ -1,4 +1,4 @@
-# CognoRise-Info-Tech-Task
+# Figma UI
 
 Task 2: Infographics
 
